@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "init version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dragorific/Portfolio-Website.git"
+  },
+  "author": "dragorific",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dragorific/Portfolio-Website/issues"
+  },
+  "homepage": "https://github.com/Dragorific/Portfolio-Website#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
